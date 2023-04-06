@@ -1,5 +1,5 @@
 using System;
-namespace tower_of_hanoi
+namespace factorial
 {
     class Program
     {
